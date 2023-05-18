@@ -1,6 +1,19 @@
-var builder = WebApplication.CreateBuilder(args);
-var app = builder.Build();
+using Microsoft.AspNetCore.Hosting;
+using Microsoft.Extensions.Hosting;
 
-app.MapGet("/", () => "Hello World!");
+// This code will make sure that the .NET application creates a web server with our new Startup class.
 
-app.Run();
+public class Program
+{
+    public static void Main(string[] args)
+    {
+        CreateHostBuilder(args).Build().Run();
+    }
+
+    public static IHostBuilder CreateHostBuilder(string[] args) =>
+        Host.CreateDefaultBuilder(args)
+            .ConfigureWebHostDefaults(webBuilder =>
+            {
+                webBuilder.UseStartup<Startup>();
+            });
+}
