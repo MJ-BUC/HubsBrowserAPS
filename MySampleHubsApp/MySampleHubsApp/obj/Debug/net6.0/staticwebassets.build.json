@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "+aiO4eVaN1MR2JPZ//ro0sqopqAgjHAk/9H188Fxczs=",
+  "Source": "MySampleHubsApp",
+  "BasePath": "_content/MySampleHubsApp",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "MySampleHubsApp\\wwwroot",
+      "Source": "MySampleHubsApp",
+      "ContentRoot": "C:\\Users\\lunke\\OneDrive\\Documents\\GitHub\\HubsBrowserAPS\\MySampleHubsApp\\MySampleHubsApp\\wwwroot\\",
+      "BasePath": "_content/MySampleHubsApp",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
