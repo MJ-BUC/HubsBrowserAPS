@@ -3,12 +3,12 @@
     "windowsAuthentication": false,
     "anonymousAuthentication": true,
     "iisExpress": {
-      "applicationUrl": "http://localhost:29670",
-      "sslPort": 0
+      "applicationUrl": "http://localhost:38524",
+      "sslPort": 44323
     }
   },
   "profiles": {
-    "MySampleHubsApp": {
+    "MyApsApp": {
       "commandName": "Project",
       "dotnetRunMessages": true,
       "launchBrowser": true,
