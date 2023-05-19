@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\lunke\\OneDrive\\Documents\\GitHub\\HubsBrowserAPS\\MySampleHubsApp\\MySampleHubsApp\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\lunke\\OneDrive\\Documents\\GitHub\\HubsBrowserAPS\\MySampleHubsApp\\MySampleHubsApp\\wwwroot\\main.css",
+      "PackagePath": "staticwebassets\\main.css"
+    },
+    {
+      "Id": "C:\\Users\\lunke\\OneDrive\\Documents\\GitHub\\HubsBrowserAPS\\MySampleHubsApp\\MySampleHubsApp\\wwwroot\\main.js",
+      "PackagePath": "staticwebassets\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\lunke\\OneDrive\\Documents\\GitHub\\HubsBrowserAPS\\MySampleHubsApp\\MySampleHubsApp\\wwwroot\\sidebar.js",
+      "PackagePath": "staticwebassets\\sidebar.js"
+    },
+    {
+      "Id": "C:\\Users\\lunke\\OneDrive\\Documents\\GitHub\\HubsBrowserAPS\\MySampleHubsApp\\MySampleHubsApp\\wwwroot\\viewer.js",
+      "PackagePath": "staticwebassets\\viewer.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MySampleHubsApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MySampleHubsApp.props",
+      "PackagePath": "build\\MySampleHubsApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MySampleHubsApp.props",
+      "PackagePath": "buildMultiTargeting\\MySampleHubsApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MySampleHubsApp.props",
+      "PackagePath": "buildTransitive\\MySampleHubsApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

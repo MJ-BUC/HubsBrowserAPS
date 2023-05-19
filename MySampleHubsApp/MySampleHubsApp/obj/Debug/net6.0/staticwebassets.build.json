@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "+aiO4eVaN1MR2JPZ//ro0sqopqAgjHAk/9H188Fxczs=",
+  "Hash": "eKPWI1iElhQI7l8hqaIL9bEHlaqVNwTRLnNAYcFQlJQ=",
   "Source": "MySampleHubsApp",
   "BasePath": "_content/MySampleHubsApp",
   "Mode": "Default",
@@ -15,5 +15,91 @@
       "Pattern": "**"
     }
   ],
-  "Assets": []
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\lunke\\OneDrive\\Documents\\GitHub\\HubsBrowserAPS\\MySampleHubsApp\\MySampleHubsApp\\wwwroot\\index.html",
+      "SourceId": "MySampleHubsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lunke\\OneDrive\\Documents\\GitHub\\HubsBrowserAPS\\MySampleHubsApp\\MySampleHubsApp\\wwwroot\\",
+      "BasePath": "_content/MySampleHubsApp",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\lunke\\OneDrive\\Documents\\GitHub\\HubsBrowserAPS\\MySampleHubsApp\\MySampleHubsApp\\wwwroot\\main.css",
+      "SourceId": "MySampleHubsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lunke\\OneDrive\\Documents\\GitHub\\HubsBrowserAPS\\MySampleHubsApp\\MySampleHubsApp\\wwwroot\\",
+      "BasePath": "_content/MySampleHubsApp",
+      "RelativePath": "main.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.css"
+    },
+    {
+      "Identity": "C:\\Users\\lunke\\OneDrive\\Documents\\GitHub\\HubsBrowserAPS\\MySampleHubsApp\\MySampleHubsApp\\wwwroot\\main.js",
+      "SourceId": "MySampleHubsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lunke\\OneDrive\\Documents\\GitHub\\HubsBrowserAPS\\MySampleHubsApp\\MySampleHubsApp\\wwwroot\\",
+      "BasePath": "_content/MySampleHubsApp",
+      "RelativePath": "main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.js"
+    },
+    {
+      "Identity": "C:\\Users\\lunke\\OneDrive\\Documents\\GitHub\\HubsBrowserAPS\\MySampleHubsApp\\MySampleHubsApp\\wwwroot\\sidebar.js",
+      "SourceId": "MySampleHubsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lunke\\OneDrive\\Documents\\GitHub\\HubsBrowserAPS\\MySampleHubsApp\\MySampleHubsApp\\wwwroot\\",
+      "BasePath": "_content/MySampleHubsApp",
+      "RelativePath": "sidebar.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\sidebar.js"
+    },
+    {
+      "Identity": "C:\\Users\\lunke\\OneDrive\\Documents\\GitHub\\HubsBrowserAPS\\MySampleHubsApp\\MySampleHubsApp\\wwwroot\\viewer.js",
+      "SourceId": "MySampleHubsApp",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\lunke\\OneDrive\\Documents\\GitHub\\HubsBrowserAPS\\MySampleHubsApp\\MySampleHubsApp\\wwwroot\\",
+      "BasePath": "_content/MySampleHubsApp",
+      "RelativePath": "viewer.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\viewer.js"
+    }
+  ]
 }
